@@ -4,7 +4,8 @@ class Header extends Component {
   render() {
     return (
       <div className="titleBar">
-        <span className="titleText"> Employees </span>
+        <span 
+        className="titleText"> Employees </span>
       </div>
     )
   }
